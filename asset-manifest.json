@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-shopping-cart-prod/static/css/main.483dc041.css",
+    "main.js": "/react-shopping-cart-prod/static/js/main.05e0a35b.js",
+    "static/media/BMJUA_ttf.ttf": "/react-shopping-cart-prod/static/media/BMJUA_ttf.bf12d2d886260d73277b.ttf",
+    "index.html": "/react-shopping-cart-prod/index.html",
+    "main.483dc041.css.map": "/react-shopping-cart-prod/static/css/main.483dc041.css.map",
+    "main.05e0a35b.js.map": "/react-shopping-cart-prod/static/js/main.05e0a35b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.483dc041.css",
+    "static/js/main.05e0a35b.js"
+  ]
+}
